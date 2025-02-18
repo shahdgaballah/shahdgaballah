@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hello! I'm Shahd 👋
+## BIS student and an Aspiring Software Engineer
 
+- 📱 Mobile Application Trainee at Depi  
+- ☁️ Currently studying AWS & Cloud Computing
 <!--
 **shahdgaballah/shahdgaballah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
