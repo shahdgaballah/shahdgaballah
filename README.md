@@ -1,6 +1,5 @@
 ## Hello! I'm Shahd 👋
-<p align ="center" > <strong> BIS student | Aspiring Software Engineer</strong>
-</p> 
+BIS student | Aspiring Software Engineer
 
 - 📱 Mobile Application Trainee at DEPI
 - ☁️ Currently studying AWS & Cloud Computing
