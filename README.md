@@ -1,8 +1,14 @@
-## Hello! I'm Shahd 👋
-BIS student | Aspiring Software Engineer
+## Hello! I'm Shahd 👋 
+## BIS student | Aspiring Software Engineer
 
+### About Me
 - 📱 Mobile Application Trainee at DEPI
-- ☁️ Currently studying AWS & Cloud Computing
+- ☁️ Cloud Enthusiast
+
+### Let's Connect
+[![LinkedIn](https://www.linkedin.com/in/shahd-gaballah-75882a2a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+
 <!--
 **shahdgaballah/shahdgaballah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
