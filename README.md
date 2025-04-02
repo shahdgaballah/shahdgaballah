@@ -3,8 +3,8 @@
 ### BIS student | Aspiring Software Engineer
 
 ### About Me
-Trainee Mobile App Developer at DEPI
-Web development and Cloud enthusiast, currently focused on Backend Development
+- 📱 Trainee Mobile App Developer at DEPI
+- 💻 Web development and Cloud enthusiast, currently focused on Backend Development
 
 ### Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahd-gaballah-75882a2a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
