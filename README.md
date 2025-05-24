@@ -3,7 +3,6 @@
 ### BIS student | Aspiring Software Engineer
 
 ### About Me
-- 📱 Trainee Mobile App Developer at DEPI
 - 💻 Web development and Cloud enthusiast, currently focused on Backend Development
 
 ### Let's Connect
