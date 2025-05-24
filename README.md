@@ -1,6 +1,6 @@
 ## Hello! I'm Shahd
 
-### BIS student | Aspiring Software Engineer
+### BIS student | Aspiring Mobile App Developer
 
 ### About Me
 - 💻 Web development and Cloud enthusiast, currently focused on Backend Development
