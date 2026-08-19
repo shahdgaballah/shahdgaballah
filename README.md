@@ -1,7 +1,7 @@
 <h2 align="center">Hello, I'm Shahd</h2>
 
 <p align="center">
-  A BIS student and software engineering enthusiast.
+  A BIS student and software development enthusiast.
 </p>
 
 <p align="center">
